@@ -1,30 +1,30 @@
 <p align="center">
-<img src="https://i.ibb.co/Q9XRrQk/IMG.jpg" alt="BLACKHAT BOT" width="500"/>
+<img src="https://i.ibb.co/Q9XRrQk/IMG.jpg" alt="SATRIA BOT" width="500"/>
 
 </p>
 <p align="center">
-<a href="https://github.com/koleksibot/BLACKHATBOT-Md/releases/tag/V2"><img title="BLACKHAT BOT MULTI DEVICE" src="https://img.shields.io/badge/BLACKHAT BOT MULTI DEVICE-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md/releases/tag/V2"><img title="BLACKHAT BOT MULTI DEVICE" src="https://img.shields.io/badge/BLACKHAT BOT MULTI DEVICE-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/koleksibot/BLACKHATBOT-Md"><img title="Author" src="https://img.shields.io/badge/Author-Koleksibot-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://https://github.com/Satriabot99/SATRIABOT-Md"><img title="Author" src="https://img.shields.io/badge/Author-Satriabot99-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/koleksibot/BLACKHATBOT-Md"><img title="Followers" src="https://img.shields.io/github/followers/koleksibot?color=blue&style=flat-square"></a>
-<a href="https://github.com/koleksibot/BLACKHATBOT-Md"><img title="Stars" src="https://img.shields.io/github/stars/koleksibot/BLACKHATBOT-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/koleksibot/BLACKHATBOT-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/koleksibot/BLACKHATBOT-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/koleksibot/BLACKHATBOT-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/koleksibot/BLACKHATBOT-Md?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md"><img title="Followers" src="https://img.shields.io/github/followers/satriabo99?color=blue&style=flat-square"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md"><img title="Stars" src="https://img.shields.io/github/stars/koleksibot/BLACKHATBOT-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/koleksibot/BLACKHATBOT-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/koleksibot/BLACKHATBOT-Md?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ---
 
-## BLACKHATBOT BIASA [Click](https://github.com/koleksibot/blackhatbot-biasa)
-## REDHAT CLOUD BOT MD [Click](https://github.com/koleksibot/REDHATBOT-Md)
-## WHITEHATBOT MD [Click](https://github.com/koleksibot/whitehatbot-md)
+## SATRIABOT BIASA [Click](https://github.com/Satriabot99/SATRIABOT-Md)
+## FREE CLOUD BOT MD [Click](https://github.com/Satriabot99/satriabotfree)
+## WHITEHATBOT MD [Click](https://github.com/satriabot99)
 # BLACKHAT BOT Whatsapp MD
 ## Install Module [here](https://www.mediafire.com/file/trl8cy4ba1bcimn/node_modules-master.zip/file)
 ## Information
 
-> Tutorial Install [Disini](https://koleksibot.blogspot.com/2022/02/script-bot-whatsapp-baileys-md.html?m=1)
+> Tutorial Install [Disini](https://s.id/Satriabot99/2022/02/script-bot-whatsapp-baileys-md.html?m=1)
 
 > BLACKHATBOT @Whatsapp using a Baileys library-md.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
@@ -39,7 +39,7 @@
 
 <h3 align="center">Made by :</h3>
 <p align="center">
-  <a href="https://github.com/koleksibot"><img src="https://github.com/koleksibot.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/satriabot99"><img src="https://telegra.ph/file/38ee4b1d667df385eca78.jpg?size=128" height="128" width="128" /></a>
   <a href="https://github.com/raselcomel"><img src="https://github.com/raselcomel.png?size=128" height="128" width="128" /></a>
   <a href="https://github.com/ilhamhdyt"><img src="https://github.com/ahmadchen.png?size=128" height="128" width="128" /></a>
 </p>
@@ -117,8 +117,8 @@ let message = await prepareWAMessageMedia({ video: fs.readFileSync('./media/menu
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/koleksibot/BLACKHATBOT-Md
-cd BLACKHATBOT-Md
+git clone https://github.com/Satriabot99/SATRIABOT-Md
+cd SATRIABOT-Md
 npm install
 npm update
 npm start
@@ -134,7 +134,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/koleksibot/BLACKHATBOT-Md
+git clone https://github.com/Satriabot99/SATRIABOT-Md
 cd BLACKHATBOT-Md
 yarn
 node .
@@ -164,11 +164,11 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 # Thanks to
- [![ilmanhdyt](https://github.com/Ilmanhdyt.png?size=150)](https://github.com/Nurutomo) | [![koleksibot](https://github.com/koleksibot.png?size=150)](https://github.com/koleksibot) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
+ [![ilmanhdyt](https://github.com/Ilmanhdyt.png?size=150)](https://github.com/Nurutomo) | [![satriabot](https://telegra.ph/file/38ee4b1d667df385eca78.jpg?size=150)](https://github.com/satriabot99) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
 ----|----|----
 [ilmanhdyt](https://github.com/ilmanhdyt) | [Koleksibot](https://github.com/koleksibot) | [raselcomel](https://github.com/raselcomel)
  Author | yang nambah fitur | yang punya
 
 ## Donate
-- [Saweria](https://saweria.co/anonsecteam)
-- [Dana](https://wa.me/62895369318181)
+- [Saweria](https://saweria.co/Stapgs)
+- [Dana](https://wa.me/6285708233494)
