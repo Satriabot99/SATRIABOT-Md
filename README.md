@@ -1,17 +1,17 @@
 <p align="center">
-<img src="https://i.ibb.co/Q9XRrQk/IMG.jpg" alt="SATRIA BOT" width="500"/>
+<img src="https://telegra.ph/file/c4b65a881f6a95599d39d.jpg" alt="SATRIA BOT" width="500"/>
 
 </p>
 <p align="center">
-<a href="https://github.com/satriabot99/SATRIABOT-Md/releases/tag/V2"><img title="BLACKHAT BOT MULTI DEVICE" src="https://img.shields.io/badge/BLACKHAT BOT MULTI DEVICE-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md/releases/tag/V2"><img title="SATRIABOT BOT MULTI DEVICE" src="https://img.shields.io/badge/SATRIABOT BOT MULTI DEVICE-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://https://github.com/Satriabot99/SATRIABOT-Md"><img title="Author" src="https://img.shields.io/badge/Author-Satriabot99-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/satriabot99/SATRIABOT-Md"><img title="Followers" src="https://img.shields.io/github/followers/satriabo99?color=blue&style=flat-square"></a>
-<a href="https://github.com/satriabot99/SATRIABOT-Md"><img title="Stars" src="https://img.shields.io/github/stars/koleksibot/BLACKHATBOT-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/satriabot99/SATRIABOT-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/koleksibot/BLACKHATBOT-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md"><img title="Stars" src="https://img.shields.io/github/stars/satriabot9/SATRIABOT-Md?color=red&style=flat-square"></a>
+<a href="https://github.com/satriabot99/SATRIABOT-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/satriabot/SATRIABOT-Md?color=red&style=flat-square"></a>
 <a href="https://github.com/satriabot99/SATRIABOT-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/koleksibot/BLACKHATBOT-Md?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
@@ -33,7 +33,7 @@
 > 
 > • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku
 > 
-> • Kalo mau nambah fitur buat file baru [disini](https://github.com/koleksibot/BLACKHATBOT-Md/tree/main/plugins) *Contoh* menu.js
+> • Kalo mau nambah fitur buat file baru [disini](https://github.com/satriabot/BLACKHATBOT-Md/tree/main/plugins) *Contoh* menu.js
 >
 > • Kalo Ampi Key nya Habis Ya Beli Lah Anjay....
 
@@ -47,8 +47,8 @@
 ## Testing Bot
 * <img src="https://i.ibb.co/64CtK3V/Screenshot-2021-12-25-03-35-07.png" height="500" width="500" /></a>
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [Owner-BLACKHATBOT](https://wa.me/62895369318181)
-* Kamu bisa testing fitur Coming Soon [disini](https://wa.me/62895369318181?text=save20%dari20%github)
+* Info Lebih Lanjut, Chat [Owner-BLACKHATBOT](https://wa.me/6285708233494)
+* Kamu bisa testing fitur Coming Soon [disini](https://wa.me/6285708233494?text=save20%dari20%github)
 
 ## How To Change Menu Display
 ----
