@@ -166,7 +166,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 # Thanks to
  [![ilmanhdyt](https://github.com/Ilmanhdyt.png?size=150)](https://github.com/Nurutomo) | [![satriabot](https://telegra.ph/file/38ee4b1d667df385eca78.jpg?size=150)](https://github.com/satriabot99) | [![Istikmal](https://github.com/BochilGaming.png?size=150)](https://github.com/BochilGaming)
 ----|----|----
-[ilmanhdyt](https://github.com/ilmanhdyt) | [Koleksibot](https://github.com/koleksibot) | [raselcomel](https://github.com/raselcomel)
+[ilmanhdyt](https://github.com/ilmanhdyt) | [Satriabot99](https://github.com/satriabot99) | [raselcomel](https://github.com/raselcomel)
  Author | yang nambah fitur | yang punya
 
 ## Donate
