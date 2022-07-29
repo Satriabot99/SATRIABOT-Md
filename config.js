@@ -1,6 +1,6 @@
-global.owner = ['6281515474080'] // Put your number here
-global.mods = ['6281515474080'] // Want some help?
-global.prems = ['6281515474080'] // Premium user has unlimited limit
+global.owner = ['625708233494'] // Put your number here
+global.mods = ['625708233494'] // Want some help?
+global.prems = ['625708233494'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -28,9 +28,9 @@ global.APIKeys = { // APIKey Here
 
 //===========Sticker WM============//
 global.packname = 'Made by'
-global.author = 'Koleksi BOT'
+global.author = 'Satria BOT'
 
-global.wm = 'Made by : Koleksibot'
+global.wm = 'Made by : Satria BOT'
 global.wait = '*tunggu sedang diproses...*'
 global.eror = '*maaf server sedang sibuk*'
 
